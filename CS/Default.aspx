@@ -51,14 +51,11 @@
 			<div style="padding-left: 10px; padding-top: 10px;">
 				<dx:ASPxNavBar ID="navFAQ" runat="server" ExpandButtonPosition="Left"
 					AutoCollapse="True" GroupSpacing="5px" EncodeHtml="False" CssPostfix="None" CssClass="defaultStyle">
-					<GroupHeaderStyle CssClass="Question" ImageSpacing="8px">
-					</GroupHeaderStyle>
-					<CollapseImage Url="~/Images/nbCollapse.png">
-					</CollapseImage>
-					<ExpandImage Url="~/Images/nbExpand.png">
-					</ExpandImage>
+					<GroupHeaderStyle CssClass="Question" ImageSpacing="8px" />
+					<CollapseImage Url="~/Images/nbCollapse.png" />
+					<ExpandImage Url="~/Images/nbExpand.png" />
 					<ItemStyle CssClass="Answer defaultStyle" />
-					<GroupContentStyle CssClass="groupPadding"></GroupContentStyle>
+					<GroupContentStyle CssClass="groupPadding" />
 				</dx:ASPxNavBar>
 			</div>
 		</div>
