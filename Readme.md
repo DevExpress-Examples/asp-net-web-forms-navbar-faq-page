@@ -9,7 +9,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e2342/)**
 <!-- run online end -->
 
-The example demonstrates how to create the [ASPxNavBar](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxNavBar) groups and items at runtime to create a FAQ page. 
+This example demonstrates how to create [ASPxNavBar](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxNavBar) groups and items at runtime to produce a FAQ page. 
 
 ![](navbar-faq.png)
 
