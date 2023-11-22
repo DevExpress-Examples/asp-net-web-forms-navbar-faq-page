@@ -4,7 +4,7 @@
 <!-- default badges end -->
 <!-- default file list -->
 
-# NavBar for ASP.NET Web Forms - How to create the FAQ Page
+# NavBar for ASP.NET Web Forms - How to create a FAQ page
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2342/)**
 <!-- run online end -->
