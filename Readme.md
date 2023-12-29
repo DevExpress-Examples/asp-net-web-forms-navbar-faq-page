@@ -6,9 +6,6 @@
 <!-- default file list -->
 
 # NavBar for ASP.NET Web Forms - How to create a FAQ page
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128564068/)**
-<!-- run online end -->
 
 This example demonstrates how to create [ASPxNavBar](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxNavBar) groups and items at runtime to produce a FAQ page. 
 
